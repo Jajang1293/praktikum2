@@ -4,5 +4,5 @@
 dekripsi.....
 
 hasilnya:
-[img](https://raw.githubusercontent.com/abuazzam/praktikum2/master/hasil.png)
+![img](https://raw.githubusercontent.com/abuazzam/praktikum2/master/hasil.png)
 
